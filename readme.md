@@ -7,7 +7,6 @@ Welcome to the AI Chat Bot! This project aims to create a chatbot that can take 
 
 The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
-[streamlit-app-2023-08-05-23-08-32.webm](https://github.com/shivraj-murali/chatbot-ai/assets/102913051/8ba6aefa-8504-4395-a311-e9e18cf2df0b)
 
 ## How It Works
 
