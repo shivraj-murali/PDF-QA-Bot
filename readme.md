@@ -59,7 +59,24 @@ To use the MultiPDF Chat App, follow these steps:
 
 ---
 
-You are welcome to contribute to the project
+You are welcome to contribute to the project. To contribute to the project follow the following steps
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes and commit them with descriptive messages.
+
+4. Push your changes to your forked repository.
+
+5. Open a pull request, explaining the changes you have made.
+
+## Contact
+
+For any questions or inquiries, please feel free to reach out to:
+
+- Name: Shivraj Murali
+- Email: shivrajmurali8503@gmail.com
 
 ## License
 
